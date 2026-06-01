@@ -1,2 +1,2 @@
 # fyp
-An insilico Nutrigenomic study
+An insilico Nutrigenomic study. We are basically working on a neurodegenerative disorder ALS
