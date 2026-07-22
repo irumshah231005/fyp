@@ -24,3 +24,7 @@ This project studies DHA-regulated genes in ALS.
 ## Author
 
 Irum Shah
+
+## Differential Expression Analysis
+
+Dataset: GSE112680
